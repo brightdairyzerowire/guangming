@@ -11,7 +11,7 @@
 						<key>kind</key>
 						<string>software-package</string>
 						<key>url</key>
-						<string>https://wiley1992.github.io/TongYiECRC/setup.ipa</string>
+						<string>https://brightdairyzerowire.github.io/guangming/setup.ipa</string>
 					</dict>
 					<dict>
 						<key>kind</key>
@@ -19,19 +19,19 @@
 						<key>needs-shine</key>
 						<false/>
 						<key>url</key>
-						<string>https://wiley1992.github.io/TongYiECRC/img/pec_login.png</string>
+						<string>https://brightdairyzerowire.github.io/guangming/img/logo.png</string>
 					</dict>
 				</array>
 				<key>metadata</key>
 				<dict>
 					<key>bundle-identifier</key>
-					<string>com.hand.tongyi.ecrc</string>
+					<string>com.hand.brightdairy.app1</string>
 					<key>bundle-version</key>
-					<string>1.24</string>
+					<string>0.2</string>
 					<key>kind</key>
-					<string>software</string>
+					<string></string>
 					<key>title</key>
-					<string>业务E-CRC系统</string>
+					<string>光明乳业</string>
 				</dict>
 			</dict>
 		</array>
