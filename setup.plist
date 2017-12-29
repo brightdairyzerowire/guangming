@@ -25,13 +25,13 @@
 				<key>metadata</key>
 				<dict>
 					<key>bundle-identifier</key>
-					<string>com.hand.brightdairy.app1</string>
+					<string>com.brightdairy.app</string>
 					<key>bundle-version</key>
-					<string>0.3</string>
+					<string>1.0</string>
 					<key>kind</key>
 					<string>software</string>
 					<key>title</key>
-					<string>光明乳业</string>
+					<string>光明乳业经销商系统</string>
 				</dict>
 			</dict>
 		</array>
